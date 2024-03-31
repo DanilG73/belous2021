@@ -1,0 +1,7 @@
+D:\20 21\ConsoleApp0220\bin\Debug\ConsoleApp0220.exe.config
+D:\20 21\ConsoleApp0220\bin\Debug\ConsoleApp0220.exe
+D:\20 21\ConsoleApp0220\bin\Debug\ConsoleApp0220.pdb
+D:\20 21\ConsoleApp0220\obj\Debug\ConsoleApp0220.csproj.AssemblyReference.cache
+D:\20 21\ConsoleApp0220\obj\Debug\ConsoleApp0220.csproj.CoreCompileInputs.cache
+D:\20 21\ConsoleApp0220\obj\Debug\ConsoleApp0220.exe
+D:\20 21\ConsoleApp0220\obj\Debug\ConsoleApp0220.pdb
